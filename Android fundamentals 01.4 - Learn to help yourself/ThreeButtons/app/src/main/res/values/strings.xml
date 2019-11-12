@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Three Buttons</string>
+    <string name="title_phrase">Phrase</string>
 </resources>
