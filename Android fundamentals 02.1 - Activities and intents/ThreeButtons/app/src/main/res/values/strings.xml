@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Three Buttons</string>
+    <string name="title_phrase">Phrase</string>
+    <string name="button_1">Text One</string>
+    <string name="button_2">Text Two</string>
+    <string name="button_3">Text Three</string>
+</resources>

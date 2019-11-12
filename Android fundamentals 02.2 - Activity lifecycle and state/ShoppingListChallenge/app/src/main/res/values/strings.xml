@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Shopping List Challenge</string>
+    <string name="shopping_items_title">Shopping Items</string>
+    <string name="button_add_item_1">Meat</string>
+    <string name="button_add_item_2">Milk</string>
+    <string name="button_add_item_3">Bread</string>
+    <string name="button_add_item_4">Egg</string>
+    <string name="button_add_item_5">Orange</string>
+    <string name="cart_title">Cart</string>
+    <string name="cart_add_item">Add Item</string>
+    <string name="cart_items_title">Items</string>
+</resources>
