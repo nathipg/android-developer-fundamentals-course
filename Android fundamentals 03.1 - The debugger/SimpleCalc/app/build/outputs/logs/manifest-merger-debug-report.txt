@@ -1,0 +1,96 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 03.1 - The debugger\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+INJECTED from C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 03.1 - The debugger\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+INJECTED from C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 03.1 - The debugger\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+INJECTED from C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 03.1 - The debugger\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\vntnaes\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\bf6219fc48564094bd0f2b01dbc8b4b2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\vntnaes\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\bcbeb079d76a36b000df163e5233dc48\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\vntnaes\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7eb5f7cf782852580825f575406f1971\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\vntnaes\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\fc3246a6e9f896368454c55b185331fb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\vntnaes\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\baac1283b8a7df41d42ed0ea2b8df532\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\vntnaes\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\9a5cab07993ceb7495bdf935cb12cc4b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\vntnaes\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a5d2b09de0f8029ab3119a089e39b6bd\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\vntnaes\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\dfe286313825455bf9d1fa6cce7bcb67\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\vntnaes\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e13ac0e415e3996ed485c075587b5f8d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\vntnaes\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\336aafe89c990cad2775d089be057576\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\vntnaes\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\60e9c1db2180b68b4c91f3b897e51f7f\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 03.1 - The debugger\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+INJECTED from C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 03.1 - The debugger\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+INJECTED from C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 03.1 - The debugger\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+	package
+		ADDED from C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 03.1 - The debugger\SimpleCalc\app\src\main\AndroidManifest.xml:18:5-45
+		INJECTED from C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 03.1 - The debugger\SimpleCalc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 03.1 - The debugger\SimpleCalc\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 03.1 - The debugger\SimpleCalc\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 03.1 - The debugger\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+		INJECTED from C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 03.1 - The debugger\SimpleCalc\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 03.1 - The debugger\SimpleCalc\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 03.1 - The debugger\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+		INJECTED from C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 03.1 - The debugger\SimpleCalc\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 03.1 - The debugger\SimpleCalc\app\src\main\AndroidManifest.xml:17:11-69
+application
+ADDED from C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 03.1 - The debugger\SimpleCalc\app\src\main\AndroidManifest.xml:20:5-32:19
+	android:supportsRtl
+		ADDED from C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 03.1 - The debugger\SimpleCalc\app\src\main\AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 03.1 - The debugger\SimpleCalc\app\src\main\AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 03.1 - The debugger\SimpleCalc\app\src\main\AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 03.1 - The debugger\SimpleCalc\app\src\main\AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 03.1 - The debugger\SimpleCalc\app\src\main\AndroidManifest.xml:25:9-40
+activity#com.example.android.SimpleCalc.MainActivity
+ADDED from C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 03.1 - The debugger\SimpleCalc\app\src\main\AndroidManifest.xml:26:9-31:20
+	android:name
+		ADDED from C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 03.1 - The debugger\SimpleCalc\app\src\main\AndroidManifest.xml:26:19-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 03.1 - The debugger\SimpleCalc\app\src\main\AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 03.1 - The debugger\SimpleCalc\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 03.1 - The debugger\SimpleCalc\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 03.1 - The debugger\SimpleCalc\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 03.1 - The debugger\SimpleCalc\app\src\main\AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 03.1 - The debugger\SimpleCalc\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 03.1 - The debugger\SimpleCalc\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 03.1 - The debugger\SimpleCalc\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\vntnaes\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\bf6219fc48564094bd0f2b01dbc8b4b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\vntnaes\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\bf6219fc48564094bd0f2b01dbc8b4b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\vntnaes\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\bcbeb079d76a36b000df163e5233dc48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\vntnaes\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\bcbeb079d76a36b000df163e5233dc48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\vntnaes\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7eb5f7cf782852580825f575406f1971\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\vntnaes\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\7eb5f7cf782852580825f575406f1971\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\vntnaes\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\fc3246a6e9f896368454c55b185331fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\vntnaes\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\fc3246a6e9f896368454c55b185331fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\vntnaes\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\baac1283b8a7df41d42ed0ea2b8df532\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\vntnaes\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\baac1283b8a7df41d42ed0ea2b8df532\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\vntnaes\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\9a5cab07993ceb7495bdf935cb12cc4b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\vntnaes\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\9a5cab07993ceb7495bdf935cb12cc4b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\vntnaes\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a5d2b09de0f8029ab3119a089e39b6bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\vntnaes\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\a5d2b09de0f8029ab3119a089e39b6bd\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\vntnaes\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\dfe286313825455bf9d1fa6cce7bcb67\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\vntnaes\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\dfe286313825455bf9d1fa6cce7bcb67\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\vntnaes\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e13ac0e415e3996ed485c075587b5f8d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\vntnaes\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e13ac0e415e3996ed485c075587b5f8d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\vntnaes\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\336aafe89c990cad2775d089be057576\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\vntnaes\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\336aafe89c990cad2775d089be057576\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\vntnaes\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\60e9c1db2180b68b4c91f3b897e51f7f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\vntnaes\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\60e9c1db2180b68b4c91f3b897e51f7f\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 03.1 - The debugger\SimpleCalc\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 03.1 - The debugger\SimpleCalc\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 03.1 - The debugger\SimpleCalc\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 03.1 - The debugger\SimpleCalc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 03.1 - The debugger\SimpleCalc\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 03.1 - The debugger\SimpleCalc\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 03.1 - The debugger\SimpleCalc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 03.1 - The debugger\SimpleCalc\app\src\main\AndroidManifest.xml

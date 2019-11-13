@@ -1,0 +1,4 @@
+#Wed Nov 13 08:48:01 GMT-03:00 2019
+base.0=C\:\\Users\\vntnaes\\Documents\\GitHub\\android-developer-fundamentals-course\\Android fundamentals 03.1 - The debugger\\SimpleCalc\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
