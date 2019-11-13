@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Nov 12 15:55:05 GMT-03:00 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\vntnaes\\Documents\\GitHub\\android-developer-fundamentals-course\\Android fundamentals 03.1 - The debugger\\SimpleCalc\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
