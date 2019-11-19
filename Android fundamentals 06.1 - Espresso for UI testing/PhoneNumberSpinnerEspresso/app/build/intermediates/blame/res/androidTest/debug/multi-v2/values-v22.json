@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\vntnaes\\Documents\\GitHub\\android-developer-fundamentals-course\\Android fundamentals 06.1 - Espresso for UI testing\\PhoneNumberSpinnerEspresso\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v22\\values-v22.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\vntnaes\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.1.0.aar\\370e567acd3ff278b34f91e01e9d4ab1\\res\\values-v22\\values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,553",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,548,896"
+                    }
+                }
+            ]
+        }
+    ]
+}

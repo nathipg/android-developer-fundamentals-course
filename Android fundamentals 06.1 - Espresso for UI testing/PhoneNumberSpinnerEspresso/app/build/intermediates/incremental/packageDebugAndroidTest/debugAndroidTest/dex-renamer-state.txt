@@ -1,0 +1,4 @@
+#Tue Nov 19 13:14:39 GMT-03:00 2019
+base.0=C\:\\Users\\vntnaes\\Documents\\GitHub\\android-developer-fundamentals-course\\Android fundamentals 06.1 - Espresso for UI testing\\PhoneNumberSpinnerEspresso\\app\\build\\intermediates\\transforms\\dexMerger\\androidTest\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
