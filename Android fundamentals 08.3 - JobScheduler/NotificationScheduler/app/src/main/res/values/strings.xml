@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Notification Scheduler</string>
+    <string name="notification_title">Job Service</string>
+    <string name="notification_text">Your Job is running!</string>
+    <string name="notification_channel_name">Job Service notification</string>
+    <string name="notification_channel_description">Notifications from Job Service</string>
+    <string name="network_type_required">Network Type Required:</string>
+    <string name="radio_none">None</string>
+    <string name="radio_any">Any</string>
+    <string name="radio_wifi">Wifi</string>
+    <string name="schedule_job">Schedule Job</string>
+    <string name="cancel_jobs">Cancel Jobs</string>
+</resources>
