@@ -1,0 +1,60 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3 Copyright 2016 Google Inc.
+4
+5Licensed under the Apache License, Version 2.0 (the "License");
+6you may not use this file except in compliance with the License.
+7You may obtain a copy of the License at
+8
+9    http://www.apache.org/licenses/LICENSE-2.0
+10
+11Unless required by applicable law or agreed to in writing, software
+12distributed under the License is distributed on an "AS IS" BASIS,
+13WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+14See the License for the specific language governing permissions and
+15limitations under the License.
+16-->
+17<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+18    package="com.example.android.hellosharedprefs"
+19    android:versionCode="1"
+20    android:versionName="1.0" >
+21
+22    <uses-sdk
+23        android:minSdkVersion="22"
+23-->C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 09.1 - Shared preferences\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+24        android:targetSdkVersion="29" />
+24-->C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 09.1 - Shared preferences\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+25
+26    <application
+26-->C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 09.1 - Shared preferences\HelloSharedPrefs\app\src\main\AndroidManifest.xml:18:5-30:19
+27        android:allowBackup="true"
+27-->C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 09.1 - Shared preferences\HelloSharedPrefs\app\src\main\AndroidManifest.xml:19:9-35
+28        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+28-->[androidx.core:core:1.0.1] C:\Users\vntnaes\.gradle\caches\transforms-2\files-2.1\c0a39027978b83a483a047f5c31d0c4e\core-1.0.1\AndroidManifest.xml:22:18-86
+29        android:debuggable="true"
+30        android:icon="@mipmap/ic_launcher"
+30-->C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 09.1 - Shared preferences\HelloSharedPrefs\app\src\main\AndroidManifest.xml:20:9-43
+31        android:label="@string/app_name"
+31-->C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 09.1 - Shared preferences\HelloSharedPrefs\app\src\main\AndroidManifest.xml:21:9-41
+32        android:supportsRtl="true"
+32-->C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 09.1 - Shared preferences\HelloSharedPrefs\app\src\main\AndroidManifest.xml:22:9-35
+33        android:testOnly="true"
+34        android:theme="@style/AppTheme" >
+34-->C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 09.1 - Shared preferences\HelloSharedPrefs\app\src\main\AndroidManifest.xml:23:9-40
+35        <activity android:name="com.example.android.hellosharedprefs.MainActivity" >
+35-->C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 09.1 - Shared preferences\HelloSharedPrefs\app\src\main\AndroidManifest.xml:24:9-29:20
+35-->C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 09.1 - Shared preferences\HelloSharedPrefs\app\src\main\AndroidManifest.xml:24:19-47
+36            <intent-filter>
+36-->C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 09.1 - Shared preferences\HelloSharedPrefs\app\src\main\AndroidManifest.xml:25:13-28:29
+37                <action android:name="android.intent.action.MAIN" />
+37-->C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 09.1 - Shared preferences\HelloSharedPrefs\app\src\main\AndroidManifest.xml:26:17-69
+37-->C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 09.1 - Shared preferences\HelloSharedPrefs\app\src\main\AndroidManifest.xml:26:25-66
+38
+39                <category android:name="android.intent.category.LAUNCHER" />
+39-->C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 09.1 - Shared preferences\HelloSharedPrefs\app\src\main\AndroidManifest.xml:27:17-77
+39-->C:\Users\vntnaes\Documents\GitHub\android-developer-fundamentals-course\Android fundamentals 09.1 - Shared preferences\HelloSharedPrefs\app\src\main\AndroidManifest.xml:27:27-74
+40            </intent-filter>
+41        </activity>
+42    </application>
+43
+44</manifest>
